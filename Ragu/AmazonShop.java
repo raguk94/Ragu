@@ -5,5 +5,4 @@ public class AmazonShop {
 		
 		System.out.println("Amazon Shopping");
 	}
-
 }
