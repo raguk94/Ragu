@@ -5,5 +5,4 @@ public class MyntraShopping {
 		
 		WebDriver driver=new ChromeDriver();
 	}
-
 }
