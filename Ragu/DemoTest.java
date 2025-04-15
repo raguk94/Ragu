@@ -9,5 +9,4 @@ public class DemoTest {
 		
 		System.out.println("Sum " +c);
 	}
-
 }
