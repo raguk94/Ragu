@@ -6,5 +6,4 @@ public class FBLoginInvalid {
 		
 		System.out.println("Hai");
 	}
-
 }
